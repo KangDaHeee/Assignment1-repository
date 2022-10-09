@@ -3,5 +3,7 @@
 int main(void)
 {
     printf("Hello Hello");
+    printf("opensource SW");
+    printf("I'm DaHee");
     return 0;
 }
